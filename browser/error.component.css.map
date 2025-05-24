@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/error/error.component.css"],
+  "sourcesContent": [".error-container {\r\n  max-width: 400px;\r\n  margin: 80px auto;\r\n  padding: 32px 24px;\r\n  background: #fff;\r\n  border-radius: 16px;\r\n  box-shadow: 0 4px 24px rgba(0,0,0,0.08);\r\n  text-align: center;\r\n  font-family: 'Segoe UI', sans-serif;\r\n}\r\n\r\n.error-icon {\r\n  font-size: 64px;\r\n  color: #0058d2;\r\n  margin-bottom: 16px;\r\n}\r\n\r\nh1 {\r\n  font-size: 2rem;\r\n  color: #d32f2f;\r\n  margin-bottom: 12px;\r\n}\r\n\r\np {\r\n  color: #444;\r\n  margin-bottom: 24px;\r\n  font-size: 1.1rem;\r\n}\r\n\r\n.error-btn {\r\n  background: #0058d2;\r\n  color: #fff;\r\n  border: none;\r\n  padding: 12px 32px;\r\n  border-radius: 8px;\r\n  font-size: 1rem;\r\n  cursor: pointer;\r\n  transition: background 0.2s;\r\n}\r\n\r\n.error-btn:hover {\r\n  background: #003e99;\r\n}"],
+  "mappings": ";AAAA,CAAC;AACC,aAAW;AACX,UAAQ,KAAK;AACb,WAAS,KAAK;AACd,cAAY;AACZ,iBAAe;AACf,cAAY,EAAE,IAAI,KAAK,KAAK,CAAC,EAAC,CAAC,EAAC,CAAC,EAAC;AAClC,cAAY;AACZ,eAAa,UAAU,EAAE;AAC3B;AAEA,CAAC;AACC,aAAW;AACX,SAAO;AACP,iBAAe;AACjB;AAEA;AACE,aAAW;AACX,SAAO;AACP,iBAAe;AACjB;AAEA;AACE,SAAO;AACP,iBAAe;AACf,aAAW;AACb;AAEA,CAAC;AACC,cAAY;AACZ,SAAO;AACP,UAAQ;AACR,WAAS,KAAK;AACd,iBAAe;AACf,aAAW;AACX,UAAQ;AACR,cAAY,WAAW;AACzB;AAEA,CAXC,SAWS;AACR,cAAY;AACd;",
+  "names": []
+}

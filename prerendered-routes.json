@@ -1,0 +1,13 @@
+{
+  "routes": {
+    "/Program%20Files/Git/train": {},
+    "/Program%20Files/Git/train/buyticket": {},
+    "/Program%20Files/Git/train/cheacktrains": {},
+    "/Program%20Files/Git/train/checkTicket": {},
+    "/Program%20Files/Git/train/chekTrains": {},
+    "/Program%20Files/Git/train/iferrorcontactus": {},
+    "/Program%20Files/Git/train/returnticket": {},
+    "/Program%20Files/Git/train/tickettrains": {},
+    "/Program%20Files/Git/train/trains": {}
+  }
+}
