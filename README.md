@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularProjectTrain
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.7.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# train
+this is train tikets
+>>>>>>> 19b7f5c80c1ad222145b1b00dfc5b6168d3a26a9
